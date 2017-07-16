@@ -7,6 +7,11 @@
 *   IMPORTANT REMINDERS:
 *   1. Pointers only hold one type of value: an address
 *   2. An array name is a pointer to the first element in an array
+*
+*   Write a function that dynamically allocates an array of integers.
+*   The function should accept a integer argument indicating the
+*   number of elements to allocate. The function should return a pointer
+*   to the array.
 */
 
 #include <iostream>
