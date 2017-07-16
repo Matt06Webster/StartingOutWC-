@@ -16,7 +16,16 @@ Chapter 2: Introduction to C++
 
 Chapter 9: Pointers
 
-	ArrayAllocator.cpp
+	1. ArrayAllocator.cpp   => AA.run
+	2. TestAveraging.cpp    =>  TA.run
+	3. DropLowestScore.cpp  => DLP.run
+	4. CaseStudy1.cpp       => CS1.run
+	5. CaseStudy2.cpp       => CS2.run
+	6. ModeFunction.cpp     => MF.run
+	7. MedianFunction.cpp   => MeF.run
+	8. MovieStatistucs.cpp  => MS.run
 	
-	Uses iostream library
+	
+	Libraries Utilized: 
+		iostream
 
