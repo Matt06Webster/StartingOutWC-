@@ -1,0 +1,7 @@
+Month: July 1992
+-------------------------
+Total Collected:          $ 40000.00
+Sales:                    $ 37735.85
+County Sales Tax:         $   754.72
+State Sales Tax:          $  1509.43
+Total Sales Tax:          $ 38490.57
